@@ -29,9 +29,18 @@
      </a> 
      </a>
 	<a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/48/linux--v1.png"/></a>
+	<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/></a> 
+	<a href="https://learn.microsoft.com/en-us/powershell/" target="_blank"> <img src="https://img.icons8.com/fluency/48/powershell.png"/></a>
+	<a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://img.icons8.com/color/48/jira.png"/></a>
 	<a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/></a>
+	<a href="https://www.jenkins.io/" target="_blank"> <img src="https://img.icons8.com/color/48/jenkins.png"/></a>
+	<a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/docker.png"/></a> 
+	<a href="https://www.ansible.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/ansible.png"/></a>
     <a href="https://www.terraform.io/" target="_blank"> <img src="https://img.icons8.com/fluency/48/terraform.png"/></a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/></a>  
+    <a href="https://kubernetes.io/" target="_blank"> <img src="https://img.icons8.com/color/48/kubernetes.png"/></a>
+	<a href="https://aws.amazon.com/" target="_blank"> <img src="https://img.icons8.com/color/48/amazon-web-services.png"/></a>
+	<a href="https://azure.microsoft.com/en-gb/" target="_blank"> <img src="https://img.icons8.com/fluency/48/azure-1.png"/></a>
+	<a href="https://cloud.google.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/google-cloud.png"/></a>
     </a>
 	</a>
 </p>
