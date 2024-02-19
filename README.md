@@ -50,8 +50,8 @@
 ## Connect with me:
 
 <p align="center">
-<a href = "https://www.linkedin.com/in/parth-shah-42060b169/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://hashnode.com/@prince29798"><img src="https://icons8.com/icon/HnB8zGOh5xgd/hashnode"/></a>
+<a href = "https://www.linkedin.com/in/prince-gupta-b0885a143/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://hashnode.com/@prince29798"><img src="https://img.icons8.com/color/48/hashnode.png"/></a>
 </a>
 
 </p>
