@@ -50,6 +50,7 @@
 ## Connect with me:
 
 <p align="center">
+<a href = "https://github.com/prince2998"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-github-community-for-software-building-and-testing-online-logo-color-tal-revivo.png"/></a>
 <a href = "https://www.linkedin.com/in/prince-gupta-b0885a143/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://hashnode.com/@prince29798"><img src="https://img.icons8.com/color/48/hashnode.png"/></a>
 </a>
