@@ -1,9 +1,9 @@
 /**
-* Template Name: Personal
-* Updated: Jan 29 2024 with Bootstrap v5.3.2
+* Template Name: Personal - v4.3.0
 * Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
+* Theme Edited by Parth Shah
 */
 (function() {
   "use strict";
@@ -139,6 +139,22 @@
   });
 
   /**
+   * Intro type effect
+   */
+   const typed = select('.typed')
+   if (typed) {
+     let typed_strings = typed.getAttribute('data-typed-items')
+     typed_strings = typed_strings.split(',')
+     new Typed('.typed', {
+       strings: typed_strings,
+       loop: true,
+       typeSpeed: 100,
+       backSpeed: 50,
+       backDelay: 2000
+     });
+   }
+
+  /**
    * Skills animation
    */
   let skilsContent = select('.skills-content');
@@ -244,10 +260,5 @@
       clickable: true
     }
   });
-
-  /**
-   * Initiate Pure Counter 
-   */
-  new PureCounter();
 
 })()
