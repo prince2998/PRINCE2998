@@ -985,15 +985,6 @@ section .container {
   background: rgba(255, 255, 255, 0.1);
 }
 
-.contact .info-box i.fa-solid {
-  font-size: 24px;
-  color: #18d26e;
-  border-radius: 50%;
-  padding: 14px;
-  float: left;
-  background: rgba(255, 255, 255, 0.1);
-}
-
 .contact .info-box h3 {
   font-size: 20px;
   color: rgba(255, 255, 255, 0.5);
