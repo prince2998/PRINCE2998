@@ -1021,6 +1021,7 @@ section .container {
   line-height: 1;
   margin-right: 12px;
   transition: 0.3s;
+  border-radius: 50%;
 }
 
 .contact .info-box .social-links a:hover {
