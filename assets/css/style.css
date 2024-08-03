@@ -987,7 +987,7 @@ section .container {
 
 .contact .info-box i.bi {
   font-size: 24px;
-  color: #18d26e;
+  color: #fff;
   border-radius: 50%;
   padding: 14px;
   float: left;
@@ -1017,7 +1017,6 @@ section .container {
 .contact .info-box .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: rgba(255, 255, 255, 0.1);
   color: #fff;
   line-height: 1;
   margin-right: 12px;
