@@ -1024,7 +1024,7 @@ section .container {
 }
 
 .contact .info-box .social-links a:hover {
-  color: #18d26e;
+  background: #18d26e;
 }
 
 .contact .php-email-form {
